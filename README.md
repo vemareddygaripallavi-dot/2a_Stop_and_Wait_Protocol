@@ -58,8 +58,9 @@ for i in range(n):
 s.close()
 ```
 ## OUTPUT
-<img width="723" height="257" alt="image" src="https://github.com/user-attachments/assets/3fe1ba17-8708-44c6-ac81-f9789e08ed3f" />
-<img width="702" height="242" alt="image" src="https://github.com/user-attachments/assets/60216e55-8aa9-47a2-95dc-a0c8017e6632" />
+<img width="1098" height="521" alt="image" src="https://github.com/user-attachments/assets/0768ef7e-d41b-4c9b-bc6e-4f7a68a0690c" />
+<img width="817" height="494" alt="image" src="https://github.com/user-attachments/assets/c06ea19b-491d-4fb4-8789-453021cca193" />
+
 
 
 ## RESULT
